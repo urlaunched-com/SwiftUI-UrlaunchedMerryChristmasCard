@@ -1,4 +1,10 @@
 # SwiftUI-UrlaunchedMerryChristmasCard
+![Author](https://img.shields.io/badge/author-Yurii%20Sameliuk-brightgreen.svg)
+![Xcode 13.2.1](https://img.shields.io/badge/Xcode-13.2.1-blue.svg)
+![Swift 5.5](https://img.shields.io/badge/Swift-5.5-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-black.svg)
+![Contact](https://img.shields.io/badge/contact-i%40urlaunched.com-yellow.svg)
+
 
 Developed by [Yurii Sameliuk](https://www.linkedin.com/in/sameliuk/) as part of the You are launched [**"Design Concept Award"**](https://www.urlaunched.com) contest **Season #2**.
 
