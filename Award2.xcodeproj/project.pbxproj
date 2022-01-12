@@ -1,0 +1,402 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F11D67EE277B512C00BABDCD /* We Wish You a Merry Christmas Original Song and Carol with Lyrics.wav in Resources */ = {isa = PBXBuildFile; fileRef = F11D67ED277B512C00BABDCD /* We Wish You a Merry Christmas Original Song and Carol with Lyrics.wav */; };
+		F11D67F0277B539D00BABDCD /* hatFall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F11D67EF277B539D00BABDCD /* hatFall.mp3 */; };
+		F1484C9A277C77AC00E3E156 /* SnowflakesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1484C99277C77AC00E3E156 /* SnowflakesView.swift */; };
+		F1484C9C277C937700E3E156 /* ShowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1484C9B277C937700E3E156 /* ShowView.swift */; };
+		F15222EC277CCD4B00568C2A /* SantaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15222EB277CCD4B00568C2A /* SantaView.swift */; };
+		F15222EE277CE4AE00568C2A /* Merry-Chirstmas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F15222ED277CE4AD00568C2A /* Merry-Chirstmas.mp3 */; };
+		F1A5EAF3277B180F00606FF4 /* ScaleText.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A5EAF2277B180F00606FF4 /* ScaleText.swift */; };
+		F1A5EAF5277B2E6400606FF4 /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A5EAF4277B2E6400606FF4 /* LaunchView.swift */; };
+		F1ACC37C277B087B00F33950 /* ChristmasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ACC37B277B087B00F33950 /* ChristmasView.swift */; };
+		F1DC4188277CEF95001E5F59 /* SantaSecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DC4187277CEF95001E5F59 /* SantaSecondView.swift */; };
+		F1F69FA72779F90400798116 /* Award2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F69FA62779F90400798116 /* Award2App.swift */; };
+		F1F69FA92779F90400798116 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F69FA82779F90400798116 /* RootView.swift */; };
+		F1F69FAB2779F90500798116 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1F69FAA2779F90500798116 /* Assets.xcassets */; };
+		F1F69FAE2779F90500798116 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1F69FAD2779F90500798116 /* Preview Assets.xcassets */; };
+		F1F69FB52779F9CE00798116 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F69FB42779F9CE00798116 /* MainView.swift */; };
+		F1F69FB7277A03DB00798116 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1F69FB6277A03DB00798116 /* Launch Screen.storyboard */; };
+		F1FCFEC9277D00B700010267 /* SantaThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FCFEC8277D00B700010267 /* SantaThirdView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F11D67ED277B512C00BABDCD /* We Wish You a Merry Christmas Original Song and Carol with Lyrics.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "We Wish You a Merry Christmas Original Song and Carol with Lyrics.wav"; sourceTree = "<group>"; };
+		F11D67EF277B539D00BABDCD /* hatFall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hatFall.mp3; sourceTree = "<group>"; };
+		F1484C99277C77AC00E3E156 /* SnowflakesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowflakesView.swift; sourceTree = "<group>"; };
+		F1484C9B277C937700E3E156 /* ShowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowView.swift; sourceTree = "<group>"; };
+		F15222EB277CCD4B00568C2A /* SantaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantaView.swift; sourceTree = "<group>"; };
+		F15222ED277CE4AD00568C2A /* Merry-Chirstmas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Merry-Chirstmas.mp3"; sourceTree = "<group>"; };
+		F1A5EAF2277B180F00606FF4 /* ScaleText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleText.swift; sourceTree = "<group>"; };
+		F1A5EAF4277B2E6400606FF4 /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
+		F1ACC37B277B087B00F33950 /* ChristmasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChristmasView.swift; sourceTree = "<group>"; };
+		F1DC4187277CEF95001E5F59 /* SantaSecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantaSecondView.swift; sourceTree = "<group>"; };
+		F1F69FA32779F90300798116 /* Award2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Award2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1F69FA62779F90400798116 /* Award2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Award2App.swift; sourceTree = "<group>"; };
+		F1F69FA82779F90400798116 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		F1F69FAA2779F90500798116 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F1F69FAD2779F90500798116 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F1F69FB42779F9CE00798116 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		F1F69FB6277A03DB00798116 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		F1FCFEC8277D00B700010267 /* SantaThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantaThirdView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F1F69FA02779F90300798116 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F1F69F9A2779F90300798116 = {
+			isa = PBXGroup;
+			children = (
+				F1F69FA52779F90300798116 /* Award2 */,
+				F1F69FA42779F90300798116 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F1F69FA42779F90300798116 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F1F69FA32779F90300798116 /* Award2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F1F69FA52779F90300798116 /* Award2 */ = {
+			isa = PBXGroup;
+			children = (
+				F1F69FA62779F90400798116 /* Award2App.swift */,
+				F1F69FA82779F90400798116 /* RootView.swift */,
+				F1F69FB42779F9CE00798116 /* MainView.swift */,
+				F1A5EAF4277B2E6400606FF4 /* LaunchView.swift */,
+				F1ACC37B277B087B00F33950 /* ChristmasView.swift */,
+				F1484C99277C77AC00E3E156 /* SnowflakesView.swift */,
+				F1A5EAF2277B180F00606FF4 /* ScaleText.swift */,
+				F1484C9B277C937700E3E156 /* ShowView.swift */,
+				F15222EB277CCD4B00568C2A /* SantaView.swift */,
+				F1DC4187277CEF95001E5F59 /* SantaSecondView.swift */,
+				F1FCFEC8277D00B700010267 /* SantaThirdView.swift */,
+				F1F69FB6277A03DB00798116 /* Launch Screen.storyboard */,
+				F11D67ED277B512C00BABDCD /* We Wish You a Merry Christmas Original Song and Carol with Lyrics.wav */,
+				F11D67EF277B539D00BABDCD /* hatFall.mp3 */,
+				F15222ED277CE4AD00568C2A /* Merry-Chirstmas.mp3 */,
+				F1F69FAA2779F90500798116 /* Assets.xcassets */,
+				F1F69FAC2779F90500798116 /* Preview Content */,
+			);
+			path = Award2;
+			sourceTree = "<group>";
+		};
+		F1F69FAC2779F90500798116 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F1F69FAD2779F90500798116 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F1F69FA22779F90300798116 /* Award2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F1F69FB12779F90500798116 /* Build configuration list for PBXNativeTarget "Award2" */;
+			buildPhases = (
+				F1F69F9F2779F90300798116 /* Sources */,
+				F1F69FA02779F90300798116 /* Frameworks */,
+				F1F69FA12779F90300798116 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Award2;
+			productName = Award2;
+			productReference = F1F69FA32779F90300798116 /* Award2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F1F69F9B2779F90300798116 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					F1F69FA22779F90300798116 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+				};
+			};
+			buildConfigurationList = F1F69F9E2779F90300798116 /* Build configuration list for PBXProject "Award2" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F1F69F9A2779F90300798116;
+			productRefGroup = F1F69FA42779F90300798116 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F1F69FA22779F90300798116 /* Award2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F1F69FA12779F90300798116 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1F69FB7277A03DB00798116 /* Launch Screen.storyboard in Resources */,
+				F15222EE277CE4AE00568C2A /* Merry-Chirstmas.mp3 in Resources */,
+				F11D67EE277B512C00BABDCD /* We Wish You a Merry Christmas Original Song and Carol with Lyrics.wav in Resources */,
+				F1F69FAE2779F90500798116 /* Preview Assets.xcassets in Resources */,
+				F11D67F0277B539D00BABDCD /* hatFall.mp3 in Resources */,
+				F1F69FAB2779F90500798116 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F1F69F9F2779F90300798116 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1F69FA92779F90400798116 /* RootView.swift in Sources */,
+				F1A5EAF5277B2E6400606FF4 /* LaunchView.swift in Sources */,
+				F1DC4188277CEF95001E5F59 /* SantaSecondView.swift in Sources */,
+				F1F69FB52779F9CE00798116 /* MainView.swift in Sources */,
+				F1A5EAF3277B180F00606FF4 /* ScaleText.swift in Sources */,
+				F1F69FA72779F90400798116 /* Award2App.swift in Sources */,
+				F15222EC277CCD4B00568C2A /* SantaView.swift in Sources */,
+				F1484C9C277C937700E3E156 /* ShowView.swift in Sources */,
+				F1FCFEC9277D00B700010267 /* SantaThirdView.swift in Sources */,
+				F1ACC37C277B087B00F33950 /* ChristmasView.swift in Sources */,
+				F1484C9A277C77AC00E3E156 /* SnowflakesView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F1F69FAF2779F90500798116 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F1F69FB02779F90500798116 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F1F69FB22779F90500798116 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Award2/Preview Content\"";
+				DEVELOPMENT_TEAM = RB6XL782P8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Yurii.Sameliuk.Award2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		F1F69FB32779F90500798116 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Award2/Preview Content\"";
+				DEVELOPMENT_TEAM = RB6XL782P8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Yurii.Sameliuk.Award2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F1F69F9E2779F90300798116 /* Build configuration list for PBXProject "Award2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1F69FAF2779F90500798116 /* Debug */,
+				F1F69FB02779F90500798116 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F1F69FB12779F90500798116 /* Build configuration list for PBXNativeTarget "Award2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1F69FB22779F90500798116 /* Debug */,
+				F1F69FB32779F90500798116 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F1F69F9B2779F90300798116 /* Project object */;
+}
