@@ -15,6 +15,17 @@ Developed by [Yurii Sameliuk](https://www.linkedin.com/in/sameliuk/) as part of 
 ## MerryChristmasCard demo. <br>
 https://user-images.githubusercontent.com/1841811/149143122-1ba9407f-ca5d-4be0-86bc-ebcd1f52addb.mp4
 
+## Our resources
+[Official website](https://www.urlaunched.com)<br>
+[Our company timeline](https://www.urlaunched.com/timeline)<br>
+[You are launched expertise](https://www.urlaunched.com/expertise)<br>
+[You are launched iOS expertise](https://www.urlaunched.com/expertise/mvp/ios)<br>
+[You are launched Android expertise](https://www.urlaunched.com/expertise/mvp/android)<br>
+[You are launched design expertise](https://www.urlaunched.com/expertise/design)<br>
+[You are launched web expertise](https://www.urlaunched.com/expertise/web)<br>
+[You are launched Lean Startup expertise](https://www.urlaunched.com/expertise/idea)<br>
+[You are launched successful startups](https://www.urlaunched.com/launched)<br>
+[Official blog](https://blog.urlaunched.com/)
 
 ## License
 
